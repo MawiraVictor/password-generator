@@ -1,0 +1,2 @@
+# ensure you have python (3 is a better choice)
+#no extra dependancies for this basic version
